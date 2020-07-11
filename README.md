@@ -9,4 +9,4 @@ If you want to ask me a question or have an inquiry, feel free to [ask me almost
 [employer]: https://tenzir.com
 [vast]: https://github.com/tenzir/vast
 [create-issue]: https://github.com/dominiklohmann/dominiklohmann/issues/new/choose
-[send-email]: mailto://mail@dominiklohmann.de
+[send-email]: mailto:mail@dominiklohmann.de
