@@ -2,7 +2,7 @@
 
 Welcome to my profile! It's great to have you here.
 
-I'm leading engineering at [Tenzir][employer], where we focus on developing an [open-core platform][tenzir] that processes and stores security event data in a pipeline dataflow mode. By the way, we're currently [hiring][hiring]!
+I'm leading engineering at [Tenzir][employer], where we focus on developing an [open-core platform][tenzir] that processes and stores security event data in a pipeline dataflow model. By the way, we're currently [hiring][hiring]!
 
 If you have any questions or inquiries, please don't hesitate to [ask me publicly][create-issue] or [send me an email privately][send-email]. I'm here to help!
 
