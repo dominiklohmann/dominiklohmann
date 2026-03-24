@@ -1,6 +1,6 @@
 **hey there 👋**
 
-prototyping interfaces to AGI at [Magic][magic] ✨  
+co-designing products around models at [Magic][magic] ✨  
 ~made hiring scale less at [Magic][magic]~  
 ~shoveled petabytes of data by building highly scalable shovels at [Magic][magic]~  
 ~made data pipelines less painful at [Tenzir][tenzir]~
