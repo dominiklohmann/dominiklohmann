@@ -2,7 +2,7 @@
 
 building coding agents, developer tools, and the systems behind them  
 currently in san francisco; back in hamburg from september  
-looking for the next thing anywhere in the world → [hit me up][send-email]
+looking for the next thing → [hit me up][send-email]
 
 ~co-designed products around models at [Magic][magic] ✨~  
 ~made hiring scale less at [Magic][magic]~  
